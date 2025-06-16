@@ -32,6 +32,10 @@ namespace CRM
                 try
                 {
                     // Plug-in business logic goes here.  
+                    string firstName = entity.Attributes["firstname"].ToString();
+                    string lastName = entity.Attributes["lastname"].ToString();
+
+                    entity.Attributes.Add("description", "Hello world " + firstName + lastName);
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
