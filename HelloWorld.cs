@@ -45,6 +45,9 @@ namespace CRM
                     string lastName = entity.Attributes["lastname"].ToString();
 
                     entity.Attributes.Add("description", "Hello world " + firstName + lastName);
+                   
+
+                    
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
