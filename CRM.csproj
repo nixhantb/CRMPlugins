@@ -101,6 +101,7 @@
   <ItemGroup>
     <Compile Include="DuplicateDetection.cs" />
     <Compile Include="HelloWorld.cs" />
+    <Compile Include="ImageSample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskPlugin.cs" />
   </ItemGroup>
