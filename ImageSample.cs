@@ -35,12 +35,16 @@ namespace CRM
                 {
                     
                     string modifiedBusinessPhone = entity.Attributes["telephone1"].ToString();
+
                     Entity preImage = (Entity)context.PreEntityImages["PreImage"];
+
                     string unmodifiedBusinessPhone = preImage.Attributes["telephone1"].ToString();
+                    
 
                     throw new InvalidPluginExecutionException($"Business Phone Number changed from {unmodifiedBusinessPhone} to {modifiedBusinessPhone}.");
 
 
+                   
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
