@@ -1,5 +1,6 @@
 ## CRM Dynamics 365 
 
+![image](cover.png)
 This repository contains a collection of PowerShell scripts designed to assist with the management and automation of tasks in Microsoft Dynamics 365 CRM. The scripts are intended for use by system administrators, developers, and IT professionals who work with Dynamics 365.
 ## Features
 - **User Management**: Scripts to create, update, and delete users in Dynamics 365.
