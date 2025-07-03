@@ -1,0 +1,17 @@
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\DynamicsIntegration.exe.config
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\DynamicsIntegration.exe
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\DynamicsIntegration.pdb
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.csproj.AssemblyReference.cache
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.csproj.CoreCompileInputs.cache
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.exe
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.pdb
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.csproj.SuggestedBindingRedirects.cache
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\DynamicsIntegration.exe.config
+C:\Users\apsar\OneDrive\Desktop\DynamicsIntegration\obj\Debug\Dynamics.C6F7E63E.Up2Date

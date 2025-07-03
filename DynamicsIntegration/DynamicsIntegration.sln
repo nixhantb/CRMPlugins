@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicsIntegration", "DynamicsIntegration.csproj", "{5192CC22-D5AB-4108-9093-7646FFCC7E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5192CC22-D5AB-4108-9093-7646FFCC7E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5192CC22-D5AB-4108-9093-7646FFCC7E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5192CC22-D5AB-4108-9093-7646FFCC7E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5192CC22-D5AB-4108-9093-7646FFCC7E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C605B3-CF9A-467A-82B5-1B0CAAC4B320}
+	EndGlobalSection
+EndGlobal
